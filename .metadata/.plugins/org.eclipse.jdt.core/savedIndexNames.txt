@@ -1,6 +1,0 @@
-INDEX VERSION 1.131+C:\Users\renuka.kumari\Music\AnaplanAdvJavaAssignment\.metadata\.plugins\org.eclipse.jdt.core
-2394805532.index
-2553956241.index
-173405611.index
-1865797976.index
-857688847.index

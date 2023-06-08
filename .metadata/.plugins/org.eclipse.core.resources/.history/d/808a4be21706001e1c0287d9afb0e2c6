@@ -1,9 +1,0 @@
-package com.anaplan.emloyee.entity;
-public class CustomException extends Exception{
-    public CustomException(String msge)
-    {
-        super(msge);
-    }
-
-
-}
