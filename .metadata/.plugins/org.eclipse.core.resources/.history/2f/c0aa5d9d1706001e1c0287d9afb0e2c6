@@ -1,0 +1,9 @@
+package com.anaplan.emloyee.entity;
+
+public class Snippet {
+	public static void main(String[] args) {
+		package com.anaplan.main;
+		
+	}
+}
+
